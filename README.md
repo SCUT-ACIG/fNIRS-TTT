@@ -1,4 +1,4 @@
 # fNIRS-TTT
-Coming Soon, might before 10th Nov. 2025.
+Weights coming soon, before 12th Dec. 2025.
 //
 by Wanxiang
