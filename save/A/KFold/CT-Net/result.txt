@@ -1,0 +1,5 @@
+acc_mean = 97.24, std = 1.90 
+pre_mean = 97.13, std = 3.89 
+rec_mean = 97.15, std = 2.66 
+f1_mean = 97.08 
+kap_mean = 0.94 
